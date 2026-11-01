@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": ".",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "ignore": [
+      "firebase.json", "firestore.rules", "firestore.indexes.json", "storage.rules",
+      "README.md", "scripts/**", "**/.*", "**/node_modules/**"
+    ],
+    "headers": [
+      { "source": "**/*.@(js|css)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=300" }] },
+      { "source": "/admin/**", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }
+    ]
+  },
+  "firestore": { "rules": "firestore.rules", "indexes": "firestore.indexes.json" },
+  "storage": { "rules": "storage.rules" }
+}

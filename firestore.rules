@@ -1,0 +1,32 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ★ এখানে আপনার অ্যাডমিন ইমেইল(গুলো) বসান — Firebase Authentication-এ যে ইমেইলে ইউজার বানাবেন সেটাই।
+    function isAdmin() {
+      return request.auth != null
+        && request.auth.token.email in ['YOUR_ADMIN_EMAIL@example.com'];
+    }
+
+    // খবর: প্রকাশিত খবর সবাই পড়তে পারবে; খসড়া ও লেখা/মোছা শুধু অ্যাডমিন।
+    // পাঠক শুধু "views" ১ করে বাড়াতে পারবে।
+    match /articles/{id} {
+      allow read: if resource.data.status == 'published' || isAdmin();
+      allow create, delete: if isAdmin();
+      allow update: if isAdmin()
+        || (resource.data.status == 'published'
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['views'])
+            && request.resource.data.views == resource.data.views + 1);
+    }
+
+    match /sections/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /settings/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}

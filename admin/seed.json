@@ -1,0 +1,514 @@
+{
+ "sections": {
+  "bangladesh": {
+   "name": "বাংলাদেশ",
+   "parent": null,
+   "in_menu": true,
+   "sort": 0
+  },
+  "politics": {
+   "name": "রাজনীতি",
+   "parent": null,
+   "in_menu": true,
+   "sort": 1
+  },
+  "world": {
+   "name": "বিশ্ব",
+   "parent": null,
+   "in_menu": true,
+   "sort": 2
+  },
+  "business": {
+   "name": "বাণিজ্য",
+   "parent": null,
+   "in_menu": true,
+   "sort": 3
+  },
+  "opinion": {
+   "name": "মতামত",
+   "parent": null,
+   "in_menu": true,
+   "sort": 4
+  },
+  "sports": {
+   "name": "খেলা",
+   "parent": null,
+   "in_menu": true,
+   "sort": 5
+  },
+  "entertainment": {
+   "name": "বিনোদন",
+   "parent": null,
+   "in_menu": true,
+   "sort": 6
+  },
+  "chakri": {
+   "name": "চাকরি",
+   "parent": null,
+   "in_menu": true,
+   "sort": 7
+  },
+  "lifestyle": {
+   "name": "জীবনযাপন",
+   "parent": null,
+   "in_menu": true,
+   "sort": 8
+  },
+  "video": {
+   "name": "ভিডিও",
+   "parent": null,
+   "in_menu": true,
+   "sort": 9
+  },
+  "crime": {
+   "name": "অপরাধ",
+   "parent": "bangladesh",
+   "in_menu": false,
+   "sort": 10
+  },
+  "capital": {
+   "name": "রাজধানী",
+   "parent": "bangladesh",
+   "in_menu": false,
+   "sort": 11
+  },
+  "district": {
+   "name": "জেলা",
+   "parent": "bangladesh",
+   "in_menu": false,
+   "sort": 12
+  },
+  "environment": {
+   "name": "পরিবেশ",
+   "parent": "bangladesh",
+   "in_menu": false,
+   "sort": 13
+  },
+  "coronavirus": {
+   "name": "করোনাভাইরাস",
+   "parent": "bangladesh",
+   "in_menu": false,
+   "sort": 14
+  },
+  "chakri-news": {
+   "name": "খবর",
+   "parent": "chakri",
+   "in_menu": false,
+   "sort": 15
+  },
+  "education": {
+   "name": "শিক্ষা",
+   "parent": null,
+   "in_menu": false,
+   "sort": 16
+  },
+  "higher-education": {
+   "name": "উচ্চশিক্ষা",
+   "parent": "education",
+   "in_menu": false,
+   "sort": 17
+  }
+ },
+ "articles": [
+  {
+   "slug": "ybd37tmj0e",
+   "headline": "খায়রুজ্জামান লিটনসহ ৩৪ আসামিকে আত্মসমর্পণ করতে সংবাদপত্রে বিজ্ঞপ্তি প্রকাশের নির্দেশ",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-03-09/772i540m/DIPU0159063849.JPG",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/ybd37tmj0e",
+   "published_at": 1790843672,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "letu5yituk",
+   "headline": "রিসোর্ট-এনজিওতে ‘মেহমান’ পরিচয়ে রাতভর মুখস্থ করানো হতো ফাঁস করা প্রশ্নের উত্তর",
+   "subheadline": "চাকরির প্রশ্ন বেচাবিক্রি-২",
+   "author": "ইমরান হোসেন",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-09-30/g61hx3jb/WhatsApp-Image-2026-09-30-at-11.55.48-1.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/letu5yituk",
+   "published_at": 1790842618,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "ueu9xp5ps8",
+   "headline": "মিরপুরে উচ্ছেদ অভিযান ঘিরে হামলা–সংঘর্ষের ঘটনায় চার মামলা, আসামি দুই হাজার, গ্রেপ্তার ২৫",
+   "subheadline": "",
+   "author": "বিশেষ প্রতিবেদক",
+   "section": "crime",
+   "image": "prothomalo-bangla/2026-09-30/oqoja20s/Image.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/crime/ueu9xp5ps8",
+   "published_at": 1790842604,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "1oo2etpnb8",
+   "headline": "ময়মনসিংহে অনশনের পর মধ্যরাতে ২০ জনের নিয়োগপত্র, বঞ্চিত দুজন",
+   "subheadline": "প্রাথমিকে শিক্ষক নিয়োগ",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-10-01/rrrmkn0a/MYMENSINGHPrimary-1.JPG",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/1oo2etpnb8",
+   "published_at": 1790840202,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "htzm77683p",
+   "headline": "দেশে যৌথ অভিযান পরিচালনার কোনো আনুষ্ঠানিক সিদ্ধান্ত হয়নি: স্বরাষ্ট্রমন্ত্রী",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-10-01/u4trvssi/Home-Minister–1.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/htzm77683p",
+   "published_at": 1790838449,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "jqhf0n4bgl",
+   "headline": "বাস চলাচল নিয়ে বিরোধ, হবিগঞ্জে আজ থেকে অনির্দিষ্টকালের পরিবহন ধর্মঘট",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-10-01/w5ltnjdk/Hobiganj-Strike.jpg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/jqhf0n4bgl",
+   "published_at": 1790838293,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "ynte7ow8n9",
+   "headline": "ইসলামী বিশ্ববিদ্যালয়ে সংঘর্ষের ঘটনায় তিন শিক্ষার্থীকে সাময়িক বহিষ্কার",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "district",
+   "image": "prothomalo-bangla/2021-03/aa16676e-668a-46f4-be2d-b3a0b1a47017/Untitled_2.jpg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/ynte7ow8n9",
+   "published_at": 1790837466,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "eawmeepy38",
+   "headline": "প্রাথমিক পর্যায়ে শনাক্ত হলে নিরাময় সম্ভব",
+   "subheadline": "স্তন ক্যানসার সচেতনতা মাস",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-10-01/i5ruaur9/Ctg-1.PNG",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/eawmeepy38",
+   "published_at": 1790836385,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "51k43wtiko",
+   "headline": "ঢাকা কেন্দ্রীয় কারাগারের এক বন্দীর মৃত্যু",
+   "subheadline": "",
+   "author": "বিশেষ প্রতিবেদক",
+   "section": "capital",
+   "image": "prothomalo-bangla/2026-08-05/a3qupf92/prothomalo-bangla2026-01-23v0i11hbq১.avif",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/capital/51k43wtiko",
+   "published_at": 1790836368,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "qn3w923b76",
+   "headline": "কৌতূহলের বশে ভিমরুলের চাকে পাটখড়ির খোঁচা, কামড়ে দুই শিশুর মৃত্যু",
+   "subheadline": "",
+   "author": "প্রতিনিধি",
+   "section": "district",
+   "image": "prothomalo-bangla/2023-12/a931d408-17df-4860-a939-6bb8fcf58c0c/wasps.jpg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/qn3w923b76",
+   "published_at": 1790834217,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "v8wy0fak7b",
+   "headline": "কক্সবাজারের আবাসিক হোটেলের শৌচাগারে মিলল নারীর গলাকাটা লাশ, কক্ষে আড়াই বছরের শিশু",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-10-01/iixdytc3/WhatsApp-Image-2026-10-01-at-11.23.39.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/v8wy0fak7b",
+   "published_at": 1790833238,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "z7ke24j44x",
+   "headline": "আত্মহত্যায় প্ররোচনার মামলায় কি আপস করা যায়",
+   "subheadline": "প্রথম আলো এক্সপ্লেইনার",
+   "author": "সৈয়দ রিফাত মোসলেম, ইমরান হোসেন",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-09-30/1qtxj492/4.avif",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/z7ke24j44x",
+   "published_at": 1790831690,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "g8xh8plg91",
+   "headline": "‘কত বছর ধইরা এনে আইতাছি, এখন দেখলে কষ্ট লাগে’",
+   "subheadline": "চার প্রজন্ম ধরে রাড্ডায় সেবা",
+   "author": "ড্রিঞ্জা চাম্বুগং",
+   "section": "capital",
+   "image": "prothomalo-bangla/2026-10-01/jdg31ksx/Radda-1.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/capital/g8xh8plg91",
+   "published_at": 1790830209,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "8vw2kejp2y",
+   "headline": "৪৯তম বিসিএসে পিএসসির সুপারিশের পরও বঞ্চনা: ৫৭ জনের দায় কে নেবে",
+   "subheadline": "",
+   "author": "মোছাব্বের হোসেন",
+   "section": "chakri-news",
+   "image": "prothomalo-bangla/2024-12-08/aet3kkbr/KBRH8943.JPG",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/chakri/chakri-news/8vw2kejp2y",
+   "published_at": 1790830095,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "bl5fzi3crr",
+   "headline": "নানাবাড়ির জেলা ফেনীর পথে প্রধানমন্ত্রী তারেক রহমান",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "politics",
+   "image": "prothomalo-bangla/2026-10-01/trecx78f/PM-at-Feni.jfif",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/politics/bl5fzi3crr",
+   "published_at": 1790829679,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "v60s6r5hso",
+   "headline": "জ্বালানি তেলের দাম অক্টোবরে অপরিবর্তিত থাকছে",
+   "subheadline": "",
+   "author": "বাসস ",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-03-19/a5jt636a/illustration.jpg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/v60s6r5hso",
+   "published_at": 1790827702,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "k27typlbtw",
+   "headline": "সড়কদ্বীপের জারুল, সোনালু, রাধাচূড়া, করবী গাছ কেটে সবজির চাষ",
+   "subheadline": "ঢাকা-চট্টগ্রাম মহাসড়ক",
+   "author": "ইকবাল হোসেন",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-09-30/e49pk4yx/WhatsApp-Image-2026-09-30-at-1.02.50-PM.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/k27typlbtw",
+   "published_at": 1790827200,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "j8b4erke0w",
+   "headline": "অ্যাথলেট প্রশিক্ষককে হেনস্তার প্রতিবাদে হাফপ্যান্ট পরে মেট্রোরেলে তাঁরা",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "capital",
+   "image": "prothomalo-bangla/2026-10-01/fqldpnri/halfpant-1.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/capital/j8b4erke0w",
+   "published_at": 1790826424,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "5yirf64g0e",
+   "headline": "৮৭ টাকায় আনা মাল্টা বাজারে কেন ৫২০ টাকা কেজি",
+   "subheadline": "",
+   "author": "মাসুদ মিলাদ",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-09-30/ptwz4ow8/WhatsApp-Image-2026-09-30-at-10.41.21-PM.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/5yirf64g0e",
+   "published_at": 1790825400,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "f7dh9ehrgd",
+   "headline": "সকালেই পড়ুন আলোচিত ৫ খবর",
+   "subheadline": "",
+   "author": "প্রথম আলো ডেস্ক",
+   "section": "bangladesh",
+   "image": "",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/f7dh9ehrgd",
+   "published_at": 1790824420,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "96nqm0fvlq",
+   "headline": "৮২ কোটি টাকার ৮ শান্তিনিবাসে ঠাঁই হয়নি কোনো প্রবীণের",
+   "subheadline": "",
+   "author": "প্রথম আলো ডেস্ক",
+   "section": "district",
+   "image": "prothomalo-bangla/2026-09-30/7rdg2myb/SUNAMGANJ.JPG",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/96nqm0fvlq",
+   "published_at": 1790823660,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "gjwt9jpkxk",
+   "headline": "বিশ্বের সেরা ১০০০ উচ্চশিক্ষা প্রতিষ্ঠানে দেশের ৩ বেসরকারি ও এক পাবলিক বিশ্ববিদ্যালয়",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "higher-education",
+   "image": "prothomalo/import/media/2017/08/08/54289cb6069882dbb62e8653f1492ca2-5988b7e9023de.jpg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/education/higher-education/gjwt9jpkxk",
+   "published_at": 1790821519,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "jtnterxjcu",
+   "headline": "প্রধানমন্ত্রীকে নিয়ে কটূক্তির অভিযোগে আটক শিক্ষককে প্রধানমন্ত্রীর নির্দেশেই ছেড়ে দেওয়া হয়েছে: মাহদী আমিন",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-09-30/w5xzcmj6/7.avif",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/jtnterxjcu",
+   "published_at": 1790804266,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "u5teh93tvj",
+   "headline": "এলপিজির কৃত্রিম সংকট ও অতিরিক্ত দামে বিক্রি খতিয়ে দেখতে মন্ত্রীর নির্দেশ",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-09-30/fq5dxrfl/৪.webp",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/u5teh93tvj",
+   "published_at": 1790797990,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "er2wpg8e4y",
+   "headline": "হাজারীবাগে পিকআপ চালককে হত্যা মামলায় একজনের মৃত্যুদণ্ড, ৩ জনের যাবজ্জীবন",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "crime",
+   "image": "prothomalo-bangla/2026-09-30/6rpfd79h/২.avif",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/crime/er2wpg8e4y",
+   "published_at": 1790797685,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "wpsp20lz7d",
+   "headline": "বহিষ্কার হওয়ার এক বছর পর জানা গেল, আম্মার ছাত্রশিবিরের ‘সাথি’ ছিলেন",
+   "subheadline": "",
+   "author": "সাজিদ হোসেন",
+   "section": "district",
+   "image": "prothomalo-bangla/2025-12-18/oun4v4gi/WhatsApp-Image-2025-12-18-at-5.48.48-PM.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/district/wpsp20lz7d",
+   "published_at": 1790797298,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "pdxodrn8cn",
+   "headline": "এআই, সেমিকন্ডাক্টর ও রোবোটিকসে গবেষণায় তরুণদের সহায়তার প্রতিশ্রুতি দিয়েছেন প্রধানমন্ত্রী: জহির উদ্দিন স্বপন",
+   "subheadline": "",
+   "author": "বাসস ",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-09-30/t94n8sdy/swapan.webp",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/pdxodrn8cn",
+   "published_at": 1790797026,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "768kpnkboo",
+   "headline": "জিয়াউল আহসানের মামলায় তদন্ত কর্মকর্তার প্রথম দিনের জবানবন্দি",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2024-11-20/3jb46e8t/prothomalo-bangla2024-11-04nj9o0r0yInternational-tribunal.webp",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/768kpnkboo",
+   "published_at": 1790796686,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "skzbhqh0ox",
+   "headline": "প্রধানমন্ত্রীর জাতিসংঘ সফরে বাংলাদেশের স্বার্থ ও বৈশ্বিক সম্ভাবনার বিষয় গুরুত্ব পেয়েছে: মাহদী আমিন",
+   "subheadline": "",
+   "author": "বিশেষ প্রতিনিধি",
+   "section": "bangladesh",
+   "image": "prothomalo-bangla/2026-09-30/du18wxjs/WhatsApp-Image-2026-10-01-at-1.00.16-AM.jpeg",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/skzbhqh0ox",
+   "published_at": 1790796454,
+   "status": "published",
+   "views": 0
+  },
+  {
+   "slug": "15204qepco",
+   "headline": "ছুরিকাঘাতে রিকশাচালক নিহত, পরিচয় জানতে সহযোগিতা চায় পুলিশ",
+   "subheadline": "",
+   "author": "নিজস্ব প্রতিবেদক",
+   "section": "crime",
+   "image": "prothomalo-bangla/2026-09-30/pespbv3f/Screenshot-2026-10-01-011937.png",
+   "content": "",
+   "source_url": "https://www.prothomalo.com/bangladesh/crime/15204qepco",
+   "published_at": 1790796146,
+   "status": "published",
+   "views": 0
+  }
+ ],
+ "settings": {
+  "site_name": "NB NEWS",
+  "logo": "",
+  "copyright": "স্বত্ব © ২০২৬ NB NEWS",
+  "facebook": "",
+  "twitter": "",
+  "youtube": "",
+  "instagram": "",
+  "per_page": "20"
+ }
+}

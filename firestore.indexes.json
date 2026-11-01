@@ -1,0 +1,11 @@
+{
+  "indexes": [
+    { "collectionGroup": "articles", "queryScope": "COLLECTION", "fields": [
+      { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "published_at", "order": "DESCENDING" } ] },
+    { "collectionGroup": "articles", "queryScope": "COLLECTION", "fields": [
+      { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "section", "order": "ASCENDING" }, { "fieldPath": "published_at", "order": "DESCENDING" } ] },
+    { "collectionGroup": "articles", "queryScope": "COLLECTION", "fields": [
+      { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "views", "order": "DESCENDING" } ] }
+  ],
+  "fieldOverrides": []
+}
